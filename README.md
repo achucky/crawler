@@ -1,9 +1,8 @@
 # node 爬虫
 
-这个一个简单的爬虫，爬取剑速网的qq头像http://www.jsqq.net/qqtx/ 
+这个一个简单的爬虫，爬取剑速网的qq头像图片http://www.jsqq.net/qqtx/ 
 
 
-**使用**  
 安装
 ```
 npm install
